@@ -158,3 +158,18 @@ body{
     padding-top: 20px;
     padding-left: 10px;
 }
+.cell-14 {
+    background: white;
+}
+.cell-15 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: white;
+    text-align: left;
+    color: black;
+}
+.share {
+    padding-top: 10px;
+    width: 30px;
+    height: 30px;
+}
